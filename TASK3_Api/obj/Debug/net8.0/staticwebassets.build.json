@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "ZeueahkGi4xQoFgGeZbC1mVyl7mzQ1ktkR7+Vf0zBIc=",
+  "Source": "TASK3_Api",
+  "BasePath": "_content/TASK3_Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TASK3_Api\\wwwroot",
+      "Source": "TASK3_Api",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Code Academy\\API\\TASK6\\TASK3_Api\\wwwroot\\",
+      "BasePath": "_content/TASK3_Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Code Academy\\API\\TASK6\\TASK3_Api\\wwwroot\\images\\students\\45161ece-5f00-4ad3-beea-673201bd74f9bmc_qr.png",
+      "SourceId": "TASK3_Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Code Academy\\API\\TASK6\\TASK3_Api\\wwwroot\\",
+      "BasePath": "_content/TASK3_Api",
+      "RelativePath": "images/students/45161ece-5f00-4ad3-beea-673201bd74f9bmc_qr.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\students\\45161ece-5f00-4ad3-beea-673201bd74f9bmc_qr.png"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Desktop\\Code Academy\\API\\TASK6\\TASK3_Api\\wwwroot\\images\\students\\d2660e8e-edaa-4b84-b091-8fa1a4b7c5971_44KZRAupREHKCL1zIjjDig.png",
+      "SourceId": "TASK3_Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Desktop\\Code Academy\\API\\TASK6\\TASK3_Api\\wwwroot\\",
+      "BasePath": "_content/TASK3_Api",
+      "RelativePath": "images/students/d2660e8e-edaa-4b84-b091-8fa1a4b7c5971_44KZRAupREHKCL1zIjjDig.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\students\\d2660e8e-edaa-4b84-b091-8fa1a4b7c5971_44KZRAupREHKCL1zIjjDig.png"
+    }
+  ]
+}
